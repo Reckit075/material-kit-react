@@ -1,3 +1,4 @@
+/* eslint-disable import/order */
 /*
 =========================================================
 * Material Kit 2 React - v2.0.0
@@ -18,10 +19,10 @@ import Container from "@mui/material/Container";
 import Grid from "@mui/material/Grid";
 
 // Material Kit 2 React components
-import MKBox from "components/MKBox";
-import MKInput from "components/MKInput";
-import MKButton from "components/MKButton";
-import MKTypography from "components/MKTypography";
+import MKBox from "./components/MKBox";
+import MKInput from "./components/MKInput";
+import MKButton from "./components/MKButton";
+import MKTypography from "./components/MKTypography";
 
 // Images
 import BackgroundImg from "./background.png";

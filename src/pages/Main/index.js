@@ -16,7 +16,7 @@ Coded by www.creative-tim.com
 */
 
 // Material Kit 2 React components
-import MKBox from "components/MKBox";
+import MKBox from "./components/MKBox";
 import Card from "@mui/material/Card";
 
 // Material Kit 2 React examples
@@ -28,6 +28,7 @@ import Posts from "./Posts";
 import Footer from "./components/Footer/Footer";
 import routes from "./Routes";
 import Contact from "./Contact";
+import AboutUs from "./AboutUs";
 
 // eslint-disable-next-line import/order
 import BackgroundImg from "./background.png";
@@ -67,6 +68,7 @@ function Author() {
             boxShadow: ({ boxShadows: { xxl } }) => xxl,
           }}
         >
+          <AboutUs />
           <Posts />
         </Card>
         <Contact />

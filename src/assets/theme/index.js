@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 /**
 =========================================================
 * Material Kit 2 React React - v2.0.0
@@ -26,11 +27,11 @@ import borders from "assets/theme/base/borders";
 import globals from "assets/theme/base/globals";
 
 // Material Kit 2 React helper functions
-import boxShadow from "assets/theme/functions/boxShadow";
-import hexToRgb from "assets/theme/functions/hexToRgb";
-import linearGradient from "assets/theme/functions/linearGradient";
-import pxToRem from "assets/theme/functions/pxToRem";
-import rgba from "assets/theme/functions/rgba";
+import boxShadow from "assets/theme/functions//boxShadow";
+import hexToRgb from "assets/theme/functions//hexToRgb";
+import linearGradient from "assets/theme/functions//linearGradient";
+import pxToRem from "assets/theme/functions//pxToRem";
+import rgba from "assets/theme/functions//rgba";
 
 // Material Kit 2 React components base styles for @mui material components
 import list from "assets/theme/components/list";
