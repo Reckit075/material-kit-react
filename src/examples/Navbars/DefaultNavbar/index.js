@@ -197,7 +197,6 @@ function DefaultNavbar({ brand, routes, transparent, light, action, sticky, rela
         const linkComponent = {
           component: MuiLink,
           href: item.href,
-          target: "_blank",
           rel: "noreferrer",
         };
 
