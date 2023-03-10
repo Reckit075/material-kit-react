@@ -23,7 +23,7 @@ import Card from "@mui/material/Card";
 import DefaultNavbar from "./components/Navbar";
 
 // Author page sections
-import Posts from "./Posts";
+// import Posts from "./Posts";
 // eslint-disable-next-line import/order
 import Footer from "./components/Footer/Footer";
 import routes from "./Routes";
@@ -31,7 +31,7 @@ import Contact from "./Contact";
 import AboutUs from "./AboutUs";
 
 // eslint-disable-next-line import/order
-import BackgroundImg from "./background.png";
+import BackgroundImg from "./background_2.png";
 
 // Routes
 
@@ -69,7 +69,7 @@ function Author() {
           }}
         >
           <AboutUs />
-          <Posts />
+          {/* <Posts /> */}
         </Card>
         <Contact />
         <Footer />

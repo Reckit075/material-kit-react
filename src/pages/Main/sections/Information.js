@@ -18,7 +18,7 @@ import Container from "@mui/material/Container";
 import Grid from "@mui/material/Grid";
 
 // Material Kit 2 React components
-import HeroImage from "assets/examples/hero1.png";
+import HeroImage from "assets/examples/hero2.png";
 import MKBox from "../components/MKBox";
 
 // Material Kit 2 React examples

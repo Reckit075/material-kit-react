@@ -25,7 +25,7 @@ import MKButton from "./components/MKButton";
 import MKTypography from "./components/MKTypography";
 
 // Images
-import BackgroundImg from "./background.png";
+import BackgroundImg from "./background_2.png";
 
 function Contact() {
   return (

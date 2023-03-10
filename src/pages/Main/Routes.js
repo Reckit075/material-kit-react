@@ -28,11 +28,11 @@ const routes = [
     icon: <Icon fontSize="30px">info</Icon>,
     href: "#about-us",
   },
-  {
-    name: "Nyheter",
-    icon: <Icon fontSize="30px">article</Icon>,
-    href: "#news",
-  },
+  // {
+  //   name: "Nyheter",
+  //   icon: <Icon fontSize="30px">article</Icon>,
+  //   href: "#news",
+  // },
   {
     name: "Kontakts oss",
     icon: <Icon fontSize="30px">alternate_email</Icon>,
